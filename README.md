@@ -1,0 +1,3 @@
+This project analyzes a mock marketing campaign dataset to identify which channels generate the strongest return on investment (ROI). The goal is to provide data-driven recommendations on how the company could allocate marketing budget more effectively.
+The analysis uses Python to explore campaign cost, revenue generated, ROI, and the relationship between spending and revenue across marketing channels.
+This is an early Python portfolio project. I used AI-assisted debugging, documentation, and publicly available notebook examples to support the development process. All analysis, interpretation, and business recommendations were reviewed and completed by me.
